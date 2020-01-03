@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">email</string>
+    <string name="pass">Password</string>
+    <string name="content_text">Polines Studio adalah tempat untuk belajar perangkat bergerak baik dengan Androis, IOS, maupun Windows Phione. Tidak perlu khawatir jika anda belum memiliki basic pemrograman sebelumnya. Sebab disini anda akan diajari from zero to hero dalam membuat aplikasi berbasis mobile. segera daftarkan diri anda, minggu depan harga naik!</string>
+    <string name="welcome">Selamat Datang di Polines Studio</string>
+</resources>
